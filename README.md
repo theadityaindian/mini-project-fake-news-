@@ -1,2 +1,1 @@
-# mini-project-fake-news-
-Mini project with just of 40 lines of code 
+This is my first project with the help of youtube where i  learned that how 1 comma makes a huge change in the entire code , it is simply a code where on terminal you can funny fake news , you can used them just for laughing and make jokes on them and in future i will add some more stuff like add ai (gpt) to real time data from news insight make fun of them  
